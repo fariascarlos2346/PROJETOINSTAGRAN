@@ -33,7 +33,7 @@ body {
 }
 
 .container-itens {
-   width: 350px;
+   width: 450px;
 }
 
 .container-form {
@@ -124,6 +124,10 @@ button {
 
 .logo-app {
    width: 160px;
+}
+
+.troca-imagem {
+   width: 150px;
 }
 
 
